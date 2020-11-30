@@ -1,0 +1,13 @@
+.juego{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 1000px;
+}
+body{
+    background-size: 100vw;
+   background-image: url(images/vegeta.jpg);
+}
+
